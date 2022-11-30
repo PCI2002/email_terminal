@@ -1,11 +1,11 @@
 {
-    "serverAddress": "11.152.9.6",
-    "serverName": "Data Finder S.A.",
+    "serverAddress": "11.152.9.9",
+    "serverName": "DIRECTORATE OF STATE SECURITY",
     "iconName": "tech.jpg",
-    "terminalID": "11.152.9.6",
+    "terminalID": "11.152.9.7",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "privateConnection"
+        "userId": "Dir1",
+        "password": "abc123",
+        "userName": "Foxer, George"
     }
 }
